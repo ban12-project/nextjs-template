@@ -1,3 +1,16 @@
+Next.js starter template
+
+## Stack
+
+- next.js
+- TypeScript
+- ESLint
+- Tailwind CSS
+
+## Features
+
+You will receive a pull request within your repository if there are some changes available in the template. see https://github.com/AndreasAugustin/actions-template-sync
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
